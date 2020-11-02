@@ -1,4 +1,4 @@
-const authorization = require('./authorization')
+// const authorization = require('./authorization')
 
 describe('TEST AUTHORIZATION WITH JWT IS WORK!!', () => {
 
